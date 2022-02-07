@@ -9,8 +9,7 @@
     "dev": "vite",
     "build": "vite build",
     "build css": "npx tailwindcss -i ./index.css -o ./tailwind.css -w",
-    "preview": "vite preview",
-    "start": "node main.js"
+    "preview": "vite preview"
   },
   "dependencies": {
     "flowbite": "^1.3.2",
