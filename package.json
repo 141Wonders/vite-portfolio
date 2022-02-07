@@ -5,7 +5,6 @@
     "node": "16.x",
     "npm": "8.x"
   },
-
   "scripts": {
     "dev": "vite",
     "start": "vite build",
@@ -22,6 +21,6 @@
     "postcss": "^8.4.6",
     "tailwindcss": "^3.0.18",
     "vite": "^2.7.2"
-  }
-  
+  },
+  "heroku-run-build-script": true
 }
