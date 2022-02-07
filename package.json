@@ -1,9 +1,11 @@
 {
-  "name": "vite_portfolio_2",
-  "version": "0.0.0",
+  "name": "vite_portfolio",
+  "version": "1.0.0",
   "engines": {
-    "node": "16.x"
+    "node": "16.x",
+    "npm": "8.x"
   },
+
   "scripts": {
     "dev": "vite",
     "build": "vite build",
