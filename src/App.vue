@@ -40,7 +40,7 @@ function toggleCollapse(elementID) {
         </nav>
 
      <!--Hero section-->
-     <div class="text-white container h-screen flex justify-between mx-auto px-8 md:px-12 lg:px-16 w-full  bg-fixed bg-center bg-cover custom-img">
+     <div class="text-white container h-screen flex justify-between mx-auto px-8 md:px-12 lg:px-16 w-full bg-fixed bg-bottom lg:bg-top bg-cover custom-img">
          <div class="flex flex-wrap sm:flex-nowrap max-h-1">
              
              <!--Side nav-->
@@ -90,7 +90,7 @@ function toggleCollapse(elementID) {
                             </div>
                             <!-- Modal footer -->
                             <div class="flex items-center p-6 space-x-2 rounded-b border-t border-gray-200 dark:border-gray-600">
-                                <a href="/src/assets/ElliotHenriquez_WebDev_2022.pdf"><button type="button" class="text-white bg-theme hover:bg-green-800 focus:ring-4 focus:ring-green-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">View Resume</button></a>
+                                <a href="/ElliotHenriquez_WebDev_2022.pdf"><button type="button" class="text-white bg-theme hover:bg-green-800 focus:ring-4 focus:ring-green-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">View Resume</button></a>
                                 <button data-modal-toggle="defaultModal" type="button" class="text-gray-500 bg-white hover:bg-gray-100 focus:ring-4 focus:ring-gray-300 rounded-lg border border-gray-200 text-sm font-medium px-5 py-2.5 hover:text-gray-900 focus:z-10 dark:bg-gray-700 dark:text-gray-300 dark:border-gray-500 dark:hover:text-white dark:hover:bg-gray-600">Close</button>
                             </div>
                         </div>
@@ -113,7 +113,7 @@ function toggleCollapse(elementID) {
                         <div class="bg-theme lg:w-1/6 -m-14 flex"></div>
                         <!-- Client info -->
                         <div class="flex flex-wrap justify-center text-center lg:text-left lg:block">
-                            <h3 class="text-white text-3xl font-semibold font-rokkitt">Derek Henriquez:<br>Trailer & Digital Editor</h3>
+                            <h3 class="text-white text-3xl 2xl:text-4xl font-semibold font-rokkitt">Derek Henriquez:<br>Trailer & Digital Editor</h3>
                             
                             <div class="w-full lg:w-auto flex flex-wrap justify-center lg:justify-start gap-3 mt-6 mb-8">
                                 <div class="badge hover:scale-105">Frontend Development</div>
@@ -121,11 +121,11 @@ function toggleCollapse(elementID) {
                                 <div class="badge hover:scale-105">Vimeo API</div>
                             </div>
                             
-                            <p class="text-lg font-rokkitt">Derek Henriquez is an accomplished media entertainment editor and works in groundbreaking television series and movies. Experienced in multiple genres and various production companies, this site showcases the best of his work.</p>
+                            <p class="text-lg 2xl:text-2xl font-rokkitt">Derek Henriquez is an accomplished media entertainment editor and works in groundbreaking television series and movies. Experienced in multiple genres and various production companies, this site showcases the best of his work.</p>
                         </div>
                         <!-- Client logo -->
                         <div class="w-1/2 lg:w-full mt-6 lg:mb-0 flex flex-wrap justify-center space-x-2">
-                            <img src="/src/assets/dh-logo.png" alt="dh-logo">
+                            <img class="w-full" src="/src/assets/dh-logo.png" alt="dh-logo">
                             <a class="visit-badge hover:scale-105 mt-4" href="https://derekhenriquez-editor.com/">Visit Site</a>
                             <a class="code-badge border border-theme hover:scale-105 mt-4" href="https://github.com/141Wonders/vimeoalbum-portfolio">View Code</a>
                         </div>
@@ -135,18 +135,18 @@ function toggleCollapse(elementID) {
                         <div class="bg-theme lg:w-1/6 -m-14 flex"></div>
                         <!-- Client info -->
             <div class="flex flex-wrap justify-center text-center lg:text-left lg:block">
-                            <h3 class="text-white text-3xl font-semibold font-rokkitt">Refrigeration Gaskets <br>of Texas, INC</h3>
+                            <h3 class="text-white text-3xl 2xl:text-4xl font-semibold font-rokkitt">Refrigeration Gaskets <br>of Texas, INC</h3>
             
               <div class="w-full lg:w-auto flex flex-wrap justify-center lg:justify-start gap-3 mt-6 mb-8">
                                 <div class="badge hover:scale-105">UI Design</div>
                 <div class="badge hover:scale-105">E-Commerce Development</div>
               </div>
                             
-              <p class="text-lg font-rokkitt">RGT is a Houston based refrigeration goods manufacturer. The company specializes in custom made gaskets, doors, and refrigeration boxes. With an online store presence, the company is now ahead of their competitors across state lines.</p>
+              <p class="text-lg 2xl:text-2xl font-rokkitt">RGT is a Houston based refrigeration goods manufacturer. The company specializes in custom made gaskets, doors, and refrigeration boxes. With an online store presence, the company is now ahead of their competitors across state lines.</p>
             </div>
                         <!-- Client logo -->
                         <div class="w-1/2 lg:w-full mt-6 lg:mb-0 flex flex-wrap justify-center">
-                            <img src="/src/assets/rgt-logo.png" alt="rgt-logo">
+                            <img class="w-full" src="/src/assets/rgt-logo.png" alt="rgt-logo">
                             <a class="visit-badge hover:scale-105 mt-4" href="https://refrigerationgaskets.com/">Visit Site</a>
                         </div>
           </div>
@@ -155,20 +155,20 @@ function toggleCollapse(elementID) {
                         <div class="bg-theme lg:w-1/6 -m-14 flex"></div>
                         <!-- Client info -->
                         <div class="flex flex-wrap justify-center text-center lg:text-left lg:block">
-                            <h3 class="text-white text-3xl font-semibold font-rokkitt">**Under Construction</h3>
+                            <h3 class="text-white text-3xl 2xl:text-4xl font-semibold font-rokkitt">**Under Construction</h3>
                             
                             <div class="w-full lg:w-auto flex flex-wrap justify-center lg:justify-start gap-3 mt-6 mb-8">
-                                <div class="badge hover:scale-105">Popular Javascript Frameworks</div>
-                                <div class="badge hover:scale-105">Innovative CSS Trends</div>
+                                <div class="badge hover:scale-105">Popular UI/UX Frameworks</div>
+                                <div class="badge hover:scale-105">Innovative Design Trends</div>
                                 <div class="badge hover:scale-105">Database Implementation</div>
                                 <div class="badge hover:scale-105">Graphics Editing</div>
                             </div>
                             
-                            <p class="text-lg font-rokkitt">Currently creating new online wonders for clients. WebWorld Wonders will provide a multitude of web services and support to turn your idea in to a web wonder. If you'd like to see your art/business/endeavor online, let's start a project today!</p>
+                            <p class="text-lg 2xl:text-2xl font-rokkitt">Currently creating new online wonders for clients. WebWorld Wonders will provide a multitude of web services and support to turn your idea in to a web wonder. If you'd like to see your art/business/endeavor online, let's start a project today!</p>
                         </div>
                         <!-- Client logo -->
                         <div class="w-1/2 lg:w-full mt-6 lg:mb-0">
-                            <img src="/src/assets/hammer.png" alt="hammer-logo">
+                            <img class="w-full" src="/src/assets/hammer.png" alt="hammer-logo">
                         </div>
                     </div>
   
