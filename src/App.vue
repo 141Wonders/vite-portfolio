@@ -40,7 +40,7 @@ function toggleCollapse(elementID) {
         </nav>
 
      <!--Hero section-->
-     <div class="text-white container h-screen flex justify-between mx-auto px-8 md:px-12 lg:px-16 w-full bg-fixed bg-bottom lg:bg-top bg-cover custom-img">
+     <div class="text-white container  flex justify-between mx-auto px-8 md:px-12 lg:px-16 w-full bg-fixed bg-bottom lg:bg-center bg-cover custom-img">
          <div class="flex flex-wrap sm:flex-nowrap max-h-1">
              
              <!--Side nav-->
