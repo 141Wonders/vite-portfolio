@@ -124,7 +124,7 @@ function toggleCollapse(elementID) {
                             <p class="text-lg 2xl:text-2xl font-rokkitt">Derek Henriquez is an accomplished media entertainment editor and works in groundbreaking television series and movies. Experienced in multiple genres and various production companies, this site showcases the best of his work.</p>
                         </div>
                         <!-- Client logo -->
-                        <div class="w-1/2 lg:w-full mt-6 lg:mb-0 flex flex-wrap justify-center space-x-2">
+                        <div class="logo-img w-1/2 lg:w-full mt-6 lg:mb-0 flex flex-wrap justify-center space-x-2">
                             <img class="w-full" src="/src/assets/dh-logo.png" alt="dh-logo">
                             <a class="visit-badge hover:scale-105 mt-4" href="https://derekhenriquez-editor.com/">Visit Site</a>
                             <a class="code-badge border border-theme hover:scale-105 mt-4" href="https://github.com/141Wonders/vimeoalbum-portfolio">View Code</a>
@@ -145,7 +145,7 @@ function toggleCollapse(elementID) {
               <p class="text-lg 2xl:text-2xl font-rokkitt">RGT is a Houston based refrigeration goods manufacturer. The company specializes in custom made gaskets, doors, and refrigeration boxes. With an online store presence, the company is now ahead of their competitors across state lines.</p>
             </div>
                         <!-- Client logo -->
-                        <div class="w-1/2 lg:w-full mt-6 lg:mb-0 flex flex-wrap justify-center">
+                        <div class="logo-img w-1/2 lg:w-full mt-6 lg:mb-0 flex flex-wrap justify-center">
                             <img class="w-full" src="/src/assets/rgt-logo.png" alt="rgt-logo">
                             <a class="visit-badge hover:scale-105 mt-4" href="https://refrigerationgaskets.com/">Visit Site</a>
                         </div>
@@ -167,7 +167,7 @@ function toggleCollapse(elementID) {
                             <p class="text-lg 2xl:text-2xl font-rokkitt">Currently creating new online wonders for clients. WebWorld Wonders will provide a multitude of web services and support to turn your idea in to a web wonder. If you'd like to see your art/business/endeavor online, let's start a project today!</p>
                         </div>
                         <!-- Client logo -->
-                        <div class="w-1/2 lg:w-full mt-6 lg:mb-0">
+                        <div class="logo-img w-1/2 lg:w-full mt-6 lg:mb-0">
                             <img class="w-full" src="/src/assets/hammer.png" alt="hammer-logo">
                         </div>
                     </div>

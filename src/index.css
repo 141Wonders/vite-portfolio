@@ -89,3 +89,7 @@ scroll-margin-top: 100px;
         -1px 1px 0 #212529,
         1px 1px 0 #212529;
 }
+
+.logo-img{
+    align-items: flex-start;
+}
